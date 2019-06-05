@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ebay_API", "Ebay_API2\Ebay_API.csproj", "{06EEC4DA-835A-4DFC-BAFF-8F2828817086}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ebay_UnitTests", "Ebay_UnitTests\Ebay_UnitTests.csproj", "{8777ADAA-17D5-45D5-9443-D13469DDA682}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06EEC4DA-835A-4DFC-BAFF-8F2828817086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06EEC4DA-835A-4DFC-BAFF-8F2828817086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06EEC4DA-835A-4DFC-BAFF-8F2828817086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06EEC4DA-835A-4DFC-BAFF-8F2828817086}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8777ADAA-17D5-45D5-9443-D13469DDA682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8777ADAA-17D5-45D5-9443-D13469DDA682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8777ADAA-17D5-45D5-9443-D13469DDA682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8777ADAA-17D5-45D5-9443-D13469DDA682}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {429C08F9-DA88-4F4F-B7FD-CD5ABD88A5EE}
+	EndGlobalSection
+EndGlobal
